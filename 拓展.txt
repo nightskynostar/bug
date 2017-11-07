@@ -1,0 +1,37 @@
+&emsp;    全角空格（HTML中）
+return false    禁止a链接的跳转
+任何字符串都是以空字符串开头
+内外嵌套的盒子，先获取外面的，再获取里面的
+console.dir()：以对象形式输出
+stopPropagation   //停止传播
+cancelBubble    //取消冒泡
+style属性操作，只能获取行内式属性。
+用typeof打印出来的数据类型，是以字符串类型打印的 如：number;
+对象名.querySelector('类选择器');   根据选择器获取元素
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
